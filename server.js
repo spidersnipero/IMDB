@@ -22,7 +22,7 @@ app.post("/",(request,respond)=>{
 	"port": null,
 	"path": "/auto-complete?q="+name,
 	"headers": {
-		"X-RapidAPI-Key": "45877265e7mshff09b6ecbbd8985p1ea5a0jsn71148bb82eb6",
+		"X-RapidAPI-Key": "own_key_required",
 		"X-RapidAPI-Host": "online-movie-database.p.rapidapi.com",
 		"useQueryString": true
 	    }
